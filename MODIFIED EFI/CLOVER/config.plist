@@ -15,7 +15,7 @@
 				<key>FixRTC</key>
 				<false/>
 				<key>FixShutdown</key>
-				<false/>
+				<true/>
 				<key>FixTMR</key>
 				<false/>
 			</dict>
