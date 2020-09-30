@@ -79,7 +79,8 @@
 			</dict>
 		</array>
 		<key>Patch</key>
-		<array/>
+		<array>
+		</array>
 		<key>Quirks</key>
 		<dict>
 			<key>FadtEnableReset</key>
@@ -537,7 +538,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-    <array>
+		<array>
 			<string>\EFI\Microsoft\Boot\bootmgfw.efi</string>
 		</array>
 		<key>Boot</key>
